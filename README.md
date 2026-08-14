@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=1800&pause=1400&color=58A6FF&center=true&vCenter=true&repeat=true&width=640&height=60&lines=Pham+Minh+Kha" alt="Pham Minh Kha" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=48&duration=1800&pause=1400&color=000000&center=true&vCenter=true&repeat=true&width=1050&height=110&lines=PHAM+MINH+KHA" alt="Pham Minh Kha" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=900&color=8B949E&center=true&vCenter=true&width=760&height=45&lines=R%26D+%2F+Backend+Engineer;Systems+%E2%80%A2+Databases+%E2%80%A2+AI%2FLLM;Research+%E2%86%92+Build+%E2%86%92+Measure+%E2%86%92+Improve" alt="R&D Backend Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2200&pause=900&color=000000&center=true&vCenter=true&width=1050&height=58&lines=R%26D+%2F+BACKEND+ENGINEER;SYSTEMS+%E2%80%A2+DATABASES+%E2%80%A2+AI%2FLLM;RESEARCH+%E2%86%92+BUILD+%E2%86%92+MEASURE+%E2%86%92+IMPROVE" alt="R&D Backend Engineer" />
 
 <p>
-  <img src="https://img.shields.io/badge/R%26D-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20%2F%20LLM-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/R%26D-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/BACKEND-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/DATABASE-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20LLM-000000?style=flat-square" />
 </p>
 
 </div>
