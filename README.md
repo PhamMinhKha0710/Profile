@@ -18,25 +18,28 @@
   <img src="https://raw.githubusercontent.com/PhamMinhKha0710/Profile/main/assets/terminal-light.svg" alt="PMK Systems Console" width="100%" />
 </picture>
 
-### `> toolchain`
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhamMinhKha0710/Profile/main/assets/toolchain-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhamMinhKha0710/Profile/main/assets/toolchain-light.svg" />
+  <img src="https://raw.githubusercontent.com/PhamMinhKha0710/Profile/main/assets/toolchain-light.svg" alt="PMK Toolchain Module Map" width="100%" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhamMinhKha0710/Profile/main/assets/field-notes-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhamMinhKha0710/Profile/main/assets/field-notes-light.svg" />
+  <img src="https://raw.githubusercontent.com/PhamMinhKha0710/Profile/main/assets/field-notes-light.svg" alt="PMK Field Notes" width="100%" />
+</picture>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/.NET-111111?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_SERVER-111111?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/T--SQL-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" />
+  <a href="https://github.com/PhamMinhKha0710/RESTful-API-JWT-ASP.net-Core"><code>NOTE_01</code></a> ·
+  <a href="https://github.com/PhamMinhKha0710/EngAcademy-LMS"><code>NOTE_02</code></a> ·
+  <a href="https://github.com/PhamMinhKha0710/E-Commerce"><code>NOTE_03</code></a> ·
+  <a href="https://github.com/PhamMinhKha0710/AppThienTai"><code>NOTE_04</code></a>
 </div>
-
-### `> field_notes`
-
-`01` — **[RESTful-API-JWT-ASP.net-Core](https://github.com/PhamMinhKha0710/RESTful-API-JWT-ASP.net-Core)** · `C#` `ASP.NET Core` `REST` `JWT`  
-`02` — **[EngAcademy-LMS](https://github.com/PhamMinhKha0710/EngAcademy-LMS)** · `TypeScript` `LMS`  
-`03` — **[E-Commerce](https://github.com/PhamMinhKha0710/E-Commerce)** · `TypeScript` `Commerce`  
-`04` — **[AppThienTai](https://github.com/PhamMinhKha0710/AppThienTai)** · `Dart` `Mobile`
 
 ---
 
