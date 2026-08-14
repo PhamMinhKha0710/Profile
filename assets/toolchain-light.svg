@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="300" viewBox="0 0 1050 300" role="img" aria-label="PMK toolchain module map">
+<style>
+.t{font-family:monospace;fill:#0a0a0a}.m{fill:#666}.s{stroke:#0a0a0a}.box{fill:#fff;stroke:#0a0a0a;stroke-width:2}.pulse{fill:#0a0a0a;animation:p 3.8s linear infinite}.blink{animation:b 1.2s steps(1,end) infinite}@keyframes p{0%{transform:translateX(0)}100%{transform:translateX(870px)}}@keyframes b{0%,49%{opacity:1}50%,100%{opacity:.25}}
+</style>
+<rect x="12" y="12" width="1026" height="276" rx="12" fill="#fff" stroke="#0a0a0a" stroke-width="3"/>
+<text x="36" y="50" class="t" font-size="19" font-weight="700">TOOLCHAIN // MODULE MAP</text>
+<text x="890" y="50" class="t" font-size="14">PMK::STACK/08</text>
+<line x1="70" y1="94" x2="980" y2="94" class="s" stroke-width="3"/>
+<rect x="72" y="87" width="18" height="14" class="pulse"/>
+<g>
+<rect x="54" y="118" width="220" height="58" rx="6" class="box"/><text x="70" y="139" class="m" font-size="12">RUNTIME</text><text x="70" y="161" class="t" font-size="18" font-weight="700">.NET  ·  C#</text>
+<rect x="292" y="118" width="220" height="58" rx="6" class="box"/><text x="308" y="139" class="m" font-size="12">DATA</text><text x="308" y="161" class="t" font-size="18" font-weight="700">SQL Server  ·  T-SQL</text>
+<rect x="530" y="118" width="220" height="58" rx="6" class="box"/><text x="546" y="139" class="m" font-size="12">SERVICE</text><text x="546" y="161" class="t" font-size="18" font-weight="700">Node.js  ·  REST</text>
+<rect x="768" y="118" width="220" height="58" rx="6" class="box"/><text x="784" y="139" class="m" font-size="12">CLIENT</text><text x="784" y="161" class="t" font-size="18" font-weight="700">TypeScript</text>
+<rect x="54" y="194" width="220" height="58" rx="6" class="box"/><text x="70" y="215" class="m" font-size="12">CONTAINERS</text><text x="70" y="237" class="t" font-size="18" font-weight="700">Docker</text>
+<rect x="292" y="194" width="220" height="58" rx="6" class="box"/><text x="308" y="215" class="m" font-size="12">HOST</text><text x="308" y="237" class="t" font-size="18" font-weight="700">Linux</text>
+<rect x="530" y="194" width="220" height="58" rx="6" class="box"/><text x="546" y="215" class="m" font-size="12">VERSIONING</text><text x="546" y="237" class="t" font-size="18" font-weight="700">Git  ·  GitHub</text>
+<rect x="768" y="194" width="220" height="58" rx="6" class="box"/><text x="784" y="215" class="m" font-size="12">DEBUG / API</text><text x="784" y="237" class="t" font-size="18" font-weight="700">Postman</text>
+</g>
+<circle cx="1000" cy="45" r="5" fill="#0a0a0a" class="blink"/>
+</svg>
