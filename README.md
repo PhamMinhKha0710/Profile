@@ -1,8 +1,8 @@
 <div align="center">
 
-# Pham Minh Kha
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=1800&pause=1400&color=58A6FF&center=true&vCenter=true&repeat=true&width=640&height=60&lines=Pham+Minh+Kha" alt="Pham Minh Kha" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2200&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=R%26D+%2F+Backend+Engineer;Systems+%E2%80%A2+Databases+%E2%80%A2+AI%2FLLM;Research+%E2%86%92+Build+%E2%86%92+Measure+%E2%86%92+Improve" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=900&color=8B949E&center=true&vCenter=true&width=760&height=45&lines=R%26D+%2F+Backend+Engineer;Systems+%E2%80%A2+Databases+%E2%80%A2+AI%2FLLM;Research+%E2%86%92+Build+%E2%86%92+Measure+%E2%86%92+Improve" alt="R&D Backend Engineer" />
 
 <p>
   <img src="https://img.shields.io/badge/R%26D-111827?style=flat-square" />
