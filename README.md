@@ -18,13 +18,17 @@
   <img src="https://raw.githubusercontent.com/PhamMinhKha0710/Profile/main/assets/terminal-light.svg" alt="PMK Systems Console" width="100%" />
 </picture>
 
-<br />
+### `> technologies`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PhamMinhKha0710/Profile/main/assets/toolchain-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PhamMinhKha0710/Profile/main/assets/toolchain-light.svg" />
-  <img src="https://raw.githubusercontent.com/PhamMinhKha0710/Profile/main/assets/toolchain-light.svg" alt="PMK Toolchain Module Map" width="100%" />
-</picture>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,nodejs,docker,linux,git,github,vscode,postman&perline=10" alt="Technology stack" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/SQL%20Server-111111?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/T--SQL-111111?style=flat-square" alt="T-SQL" />
+  <img src="https://img.shields.io/badge/Backend-111111?style=flat-square" alt="Backend" />
+  <img src="https://img.shields.io/badge/Database-111111?style=flat-square" alt="Database" />
+  <img src="https://img.shields.io/badge/Automation-111111?style=flat-square" alt="Automation" />
+</div>
 
 <br />
 
